@@ -1,4 +1,4 @@
-Uruchomienie:
+Set-up:
 1. Open the scene: GeneratorScene
 2. Play/run the scene
 3. Select PointRandomizer in gameobject hierarchy and check checkbox 'Randomize'
