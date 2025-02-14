@@ -1,0 +1,4 @@
+repository "ClipGenerator/ClipGenerator@20066563524139@cloud"
+  path "/"
+    br "/main"
+    co "/main"

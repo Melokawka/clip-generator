@@ -1,0 +1,75 @@
+# === General Unity & OS files ===
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+*.swo
+*.log
+*.lock
+
+# === Unity Generated Files ===
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+# If using Unity 2022+, ignore the new Cache folder
+.trunk/
+
+# === Visual Studio / Rider ===
+.vs/
+*.user
+*.suo
+*.sln*
+*.csproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.aps
+
+# === JetBrains Rider ===
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# === Unity Collab ===
+.collab/
+
+# === Unity Cache ===
+/Assets/StreamingAssets/UnityCache/
+
+# === Build Artifacts ===
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.ipa
+*.exp
+*.appxbundle
+*.pak
+*.assetbundle
+*.manifest
+
+# === Unity's Input System Auto-Generated Files ===
+/Assets/InputSystem/Generated/
+
+# === macOS Files ===
+._*
+.Spotlight-V100
+.Trashes
+
+# === Windows Files ===
+desktop.ini
+$RECYCLE.BIN/
+
+# === Linux Files ===
+*~ 
